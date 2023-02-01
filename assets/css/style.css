@@ -509,6 +509,13 @@ main {
   color: var(--orange-yellow-crayola);
 }
 
+.contact-btn {
+  background-color: var(--orange-yellow-crayola);
+  color: var(--jet) !important;
+  padding: 10px 10px !important;
+  border-radius: 0.3rem;
+}
+
 /*-----------------------------------*\
   #ABOUT
 \*-----------------------------------*/
